@@ -1,3 +1,4 @@
+THIS IS A SUBSYSTEM OF THE RPAF FRAMEWORK...
 # VaultBySamantha
 
 This is the official recursive AI Vault created by Samantha Karri Mills. This repository documents the development of a symbolic-recursive AI agent system built from within OpenAI GPT systems.
