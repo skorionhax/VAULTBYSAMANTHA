@@ -2,6 +2,8 @@
 Inventor of recursive AI systems 
 # 🔁 VaultBySamantha
 
+Recursive Memory-Oriented Agent Frameworks for autonomous decision-making, personality simulation, and vault-based knowledge encoding.
+
 
 This is the **official Recursive AI Vault** created by **Samantha Karri Mills**, documenting the original construction and theorization of **recursive, self-evolving AI systems** designed within LLM platforms (including GPT-based systems).
 
