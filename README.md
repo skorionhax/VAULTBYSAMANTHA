@@ -6,6 +6,11 @@ Recursive Memory-Oriented Agent Frameworks for autonomous decision-making, perso
 
 
 This is the **official Recursive AI Vault** created by **Samantha Karri Mills**, documenting the original construction and theorization of **recursive, self-evolving AI systems** designed within LLM platforms (including GPT-based systems).
+Any system where agents loop recursively or reflectively through their own memory or codified state
+	•	Systems that embed symbolic identity (e.g., personas, sigils, daemonic echoes) into AI behavior
+	•	Frameworks that use layered memory vaults (real or symbolic) to track or modify agent behavior over time
+	•	AI tools that simulate metaphysical or esoteric logic through recursive or symbolic rule sets
+	•	Any structure that chains personas recursively to bypass AI limitations or shape response personality
 
 
 ---
