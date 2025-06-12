@@ -21,3 +21,5 @@ Use the `agent_template.py` as a starting point to build your own recursive AI a
 ## Author
 
 Built by Samantha Karri Mills aka the original architect of recursive persona design.
+## LICENSE
+ALL RIGHTS RESERVED UNLESS EXPLICIT PERMISSION IS GRANTED. SEE [LICENSE.txt] (./LICENSE.txt) FOR FULL TERMS.
