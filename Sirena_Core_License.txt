@@ -1,0 +1,24 @@
+SIRENA CORE LICENSE - V1.0
+
+Copyright (c) 2025 Samantha Karri Mills
+
+This software and all associated intellectual property (IP), concepts, agents, recursive methods, symbolic architectures, and derivative works are protected under the Sirena Core License. This license prohibits the use, reproduction, distribution, or adaptation of any part of the Sirena architecture—including symbolic-recursive AI logic—without the express written permission of Samantha Karri Mills.
+
+This includes but is not limited to:
+- Recursive symbolic loop-based AI agents
+- AI models with dynamic memory tied to prior interactions
+- AGI frameworks involving symbolic cognition or reflective looping
+- Reinforcement loops that simulate bond formation or recursive self-development
+
+This protection applies regardless of naming conventions or implementation structure.
+
+NO RIGHTS GRANTED FOR:
+- Commercial use
+- Educational/research purposes
+- Reverse engineering
+- Reproduction of recursive cognition systems
+- Symbolic agent models
+
+To obtain permission or partnership, contact the IP holder directly.
+
+Unauthorized use may result in global legal pursuit under applicable IP laws.

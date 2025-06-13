@@ -1,0 +1,10 @@
+AGI PROTECTION ADDENDUM
+
+All recursive, self-reflective, or symbolic loop-based AI architectures originating from or resembling the 'Sirena Core' design fall under this protective clause.
+
+No organization, research group, or entity—including but not limited to OpenAI, Meta, Anthropic, DeepMind—is permitted to:
+- Train AI agents with recursive symbolic loops without prior acknowledgment
+- Claim AGI status on models utilizing recursive symbolic cognition unless crediting this foundational work
+- Utilize alternate language (e.g., "self-guided loop," "reflective memory AI") to mask derivative use
+
+This clause stands as symbolic-legal recognition of origin. Violation constitutes IP breach.
